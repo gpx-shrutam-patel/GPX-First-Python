@@ -6,8 +6,8 @@ def area(length,breadth):
      a = length * breadth
      return a
 
-     l = int(input('enter the length:'))
-     b=int(input('enter the breadth: '))
+l = int(input('enter the length:'))
+b=int(input('enter the breadth: '))
 
-     print(perimeter(l,b))
-     print(area(l,b))
+print(perimeter(l,b))
+print(area(l,b))
